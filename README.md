@@ -48,7 +48,7 @@ Gives a clear picture of overall business performance:
 - ⏳ Monthly revenue trend
 - 👥 Top 5 Customers by Revenue
 
-![Sales Overview](images/dashboard_1.png)
+![Sales Overview](Dashboard-1.png)
 
 ---
 
@@ -59,7 +59,7 @@ Focuses on understanding where the company makes — or loses — money:
 - 👤 Customer-level Profit vs Revenue
 - 🔎 Identify low-margin, high-revenue clients
 
-![Profit Insights](images/dashboard_2.png)
+![Profit Insights](Dashboard-2.png)
 
 ---
 
@@ -70,7 +70,7 @@ Visualizes how revenue and profit behave across time and geography:
 - 🧭 Region-wise performance comparison
 - 🚩 Spot patterns or seasonal dips
 
-![Performance Trends](images/dashboard_3.png)
+![Performance Trends](Dashboard-3.png)
 
 ---
 
